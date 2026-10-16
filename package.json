@@ -9,7 +9,8 @@
     "android:sync": "pnpm build && cap sync android",
     "android:apk": "pnpm android:sync && cd android && ./gradlew assembleDebug",
     "preview": "vite preview",
-    "format": "oxfmt"
+    "format": "oxfmt",
+    "release": "node scripts/publish.mjs"
   },
   "dependencies": {
     "@capacitor/android": "^8.5.3",
