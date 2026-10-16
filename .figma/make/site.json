@@ -1,0 +1,11 @@
+{
+  "title": "Logionix",
+  "description": "This user-friendly chatbot application leverages advanced AI APIs, allowing users to customize settings, save chats, and enhance their conversational experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

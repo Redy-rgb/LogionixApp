@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Logionix</string>
+    <string name="title_activity_main">Logionix</string>
+    <string name="package_name">com.logionix.app</string>
+    <string name="custom_url_scheme">com.logionix.app</string>
+</resources>
